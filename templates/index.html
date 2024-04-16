@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Cambiar de Color con Javascript</title>
 </head>
+
 <body>
     
     <h1>Bienvenido a mi pagina web</h1>
@@ -18,10 +20,13 @@
             var b = Math.floor(Math.random() * 256);
             var colorRGB = `rgb(${r},${g},${b})`;
 
+            console.log(colorRGB);
+
             //Cambiar el color de fondo de la pagina 
             document.body.style.backgroundColor = colorRGB;
-
         }
     </script>
+
 </body>
+
 </html>
