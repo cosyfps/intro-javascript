@@ -1,7 +1,7 @@
 # Intro | JavaScript
 
-## Alumno: Kelvin A. Moreno
-## Secion: 006D
+#### Alumno: Kelvin A. Moreno
+#### Secion: 006D
 
 ## Descripción del Proyecto
 Este repositorio tiene como objetivo proporcionar una introducción clara y concisa a los conceptos básicos de JavaScript
