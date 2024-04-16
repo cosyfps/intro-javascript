@@ -1,4 +1,4 @@
-# Intro | JavaScript
+# JavaScript
 
 #### Alumno: Kelvin A. Moreno
 #### Secion: 006D
